@@ -1,0 +1,14 @@
+#nav {
+    padding: 1.5rem;
+  
+    a {
+      font-weight: bold;
+      color: var(--application-link-color);
+    }
+  
+    a:hover{
+        color: var(--application-hover-color);
+    }
+  
+    background-color: #141301;
+}
